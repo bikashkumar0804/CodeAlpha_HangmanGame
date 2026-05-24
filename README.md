@@ -19,9 +19,12 @@ A professional text-based Hangman Game developed using Python.
 - Lists & Dictionaries
 
 ## How to Run
-
 ```bash
 python hangman.py
 
-Author
+```
+
+## Author
 Bikash Kumar
+
+
